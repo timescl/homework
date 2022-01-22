@@ -1,0 +1,59 @@
+// 1.
+
+int main()
+{
+	int a,b;
+	cin >> a >> b;
+	cout << a + b;
+	return 0;
+}
+
+// 2.
+
+// a)
+
+int main()
+{
+	cout << 3 * 4 - 7 / 2;
+	return 0;
+}
+
+// b)
+
+int main()
+{
+	cout << 35 % 10 - 8 * 3 / 7;
+	return 0;
+}
+
+// c)
+
+int main()
+{
+	cout << 2* ( 34 / 10 + 34 % 10 ) - 3;
+	return 0;
+}
+
+// d)
+
+int main()
+{
+	cout << 34 / ( 5 * 3 / 6 - 7 % 6 ) + 5 / 8;
+	return 0;
+}
+
+// e)
+
+int main()
+{
+	cout << 34 / ( 4 + 6 ) +  7 / 2;
+	return 0;
+}
+
+// f)
+
+int main()
+{
+	cout << 3 * ( 1,2 + 0.8) / 4;
+	return 0;
+}
